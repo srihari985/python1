@@ -1,0 +1,6 @@
+super man
+a = 20
+b =25
+d = a+b
+print('Results=',d)
+
